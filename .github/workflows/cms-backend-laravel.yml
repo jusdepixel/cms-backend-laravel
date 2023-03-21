@@ -27,7 +27,7 @@ jobs:
       - name: Create Database
         run: |
           mkdir -p database
-          touch database/jusdepixel-backend.sqlite
+          touch database/database.sqlite
           chmod -R 777 database
       - name: Migrate
         run: php artisan migrate:fresh
