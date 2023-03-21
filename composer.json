@@ -1,9 +1,9 @@
 {
-    "name": "laravel/laravel",
+    "name": "jusdepixel/cms-backend-laravel",
     "type": "project",
-    "description": "The Laravel Framework.",
-    "keywords": ["framework", "laravel"],
-    "license": "MIT",
+    "description": "Content management sytem from laravel/breeze/next.js",
+    "keywords": ["framework", "laravel", "breeze", "next.js", "cms"],
+    "license": "CC BY-NC-SA 4.0",
     "require": {
         "php": "^8.2",
         "guzzlehttp/guzzle": "^7.2",
