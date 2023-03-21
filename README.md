@@ -5,4 +5,4 @@
 ![Tests passing](https://img.shields.io/badge/Tests-passing-brightgreen)
 ![Licence](https://img.shields.io/badge/Licence-CC%20BY--NC--SA%204.0-yellow)
 
-Content management system from laravel/breeze/next.js
+Content management system API from laravel/breeze/next.js
